@@ -1,75 +1,7 @@
-# Nuxt Minimal Starter
+app indítás: npm run dev
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+json szerver indítés: json-server --watch db.json --port 4000
 
-## Setup
+Külön komponensbe kerültek: fetch hívás, szűrők, visible animáció és a mobil swipe lapozás Ami nem lett megvalósítva: retry gomb hiba esetén Minden extra tételt megcsináltam. További extra dolgokkal egészítettem ki: animációk, ui elemek (ikonok)
 
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Még lehetne reszelgetni, optimalizálni. Sokkal több, mint 8 óra volt. Maximalista vagyok, ami nálam azt jelenti, hogyha valamit nem tudok befejezni, akkor az frusztrál, így muszáj voltam végig csinálni.
