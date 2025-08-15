@@ -58,6 +58,10 @@ function vehicleFilter(value) {
   store.vehicleClass = value
 }
 
+function backOnePage() {
+  store.page = 1
+}
+
 function durationFilter(value, element) {
   store.page = 1
   if (store.duration === value) {
@@ -89,7 +93,7 @@ watch(() => store.products, async () => {
 
       <!-- Ország -->
       <div class="filter-select">
-        <select v-model="store.country">
+        <select v-model="store.country" @change="backOnePage()">
           <option value="" selected>Ország</option>
           <option value="HU">HU</option>
           <option value="AT">AT</option>
@@ -101,7 +105,7 @@ watch(() => store.products, async () => {
 
       <!-- Rendezés Ár szerint -->
       <div class="filter-select">
-        <select v-model="store.sortOrder">
+        <select v-model="store.sortOrder" @change="backOnePage()">
           <option value="" selected>Rendezés</option>
           <option value="asc">Ár növekvő</option>
           <option value="desc">Ár csökkenő</option>

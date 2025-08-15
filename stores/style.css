@@ -1,8 +1,13 @@
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
 body{
     background: #f7f5f4;
     margin: 0;
     font-family: 'Nunito Sans', sans-serif;
     color: #222;
+    overflow-x: hidden;
 }
 section.products{
     max-width: 750px;
@@ -397,7 +402,6 @@ section.product{
     .main-details {
         flex-direction: column-reverse;
     }
-
     .main-details img {
         max-width: 100%;
         width: 100%;
