@@ -1,0 +1,921 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "D1",
+      "name": "AT 1-day Vignette (motorcycle)",
+      "price": 148.92,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 2,
+      "country": "SI",
+      "vehicle": "motorcycle",
+      "duration": "Y1",
+      "name": "SI Annual Vignette (motorcycle)",
+      "price": 54.96,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 3,
+      "country": "SK",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "SK 10-day Vignette (car)",
+      "price": 65.75,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 4,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "Y1",
+      "name": "SK Annual Vignette (motorcycle)",
+      "price": 65.58,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 5,
+      "country": "SI",
+      "vehicle": "car",
+      "duration": "M2",
+      "name": "SI 2-month Vignette (car)",
+      "price": 98.6,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 6,
+      "country": "HU",
+      "vehicle": "motorcycle",
+      "duration": "Y1",
+      "name": "HU Annual Vignette (motorcycle)",
+      "price": 50.99,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 7,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "Y1",
+      "name": "SK Annual Vignette (motorcycle)",
+      "price": 21.35,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 8,
+      "country": "HU",
+      "vehicle": "car",
+      "duration": "D1",
+      "name": "HU 1-day Vignette (car)",
+      "price": 69.66,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 9,
+      "country": "AT",
+      "vehicle": "car",
+      "duration": "M2",
+      "name": "AT 2-month Vignette (car)",
+      "price": 100.07,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 10,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "D10",
+      "name": "AT 10-day Vignette (motorcycle)",
+      "price": 74.35,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 11,
+      "country": "SI",
+      "vehicle": "motorcycle",
+      "duration": "Y1",
+      "name": "SI Annual Vignette (motorcycle)",
+      "price": 28.32,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 12,
+      "country": "HU",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "HU 1-month Vignette (car)",
+      "price": 48.23,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 13,
+      "country": "HU",
+      "vehicle": "car",
+      "duration": "D1",
+      "name": "HU 1-day Vignette (car)",
+      "price": 16.49,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 14,
+      "country": "SI",
+      "vehicle": "motorcycle",
+      "duration": "M1",
+      "name": "SI 1-month Vignette (motorcycle)",
+      "price": 18.51,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 15,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "M2",
+      "name": "SK 2-month Vignette (motorcycle)",
+      "price": 29.27,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 16,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "D1",
+      "name": "AT 1-day Vignette (motorcycle)",
+      "price": 81.26,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 17,
+      "country": "SK",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "SK 10-day Vignette (car)",
+      "price": 25.62,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 18,
+      "country": "SI",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "SI 1-month Vignette (car)",
+      "price": 25.52,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 19,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "M2",
+      "name": "SK 2-month Vignette (motorcycle)",
+      "price": 29.66,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 20,
+      "country": "CZ",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "CZ 1-month Vignette (car)",
+      "price": 112.27,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 21,
+      "country": "SI",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "SI 10-day Vignette (car)",
+      "price": 100.89,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 22,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "D10",
+      "name": "AT 10-day Vignette (motorcycle)",
+      "price": 19.54,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 23,
+      "country": "AT",
+      "vehicle": "car",
+      "duration": "Y1",
+      "name": "AT Annual Vignette (car)",
+      "price": 24.57,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual"
+      ]
+    },
+    {
+      "id": 24,
+      "country": "AT",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "AT 10-day Vignette (car)",
+      "price": 102.47,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 25,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "D10",
+      "name": "SK 10-day Vignette (motorcycle)",
+      "price": 91.77,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 26,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "D10",
+      "name": "AT 10-day Vignette (motorcycle)",
+      "price": 120.75,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 27,
+      "country": "CZ",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "CZ 1-month Vignette (car)",
+      "price": 22.31,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 28,
+      "country": "HU",
+      "vehicle": "car",
+      "duration": "Y1",
+      "name": "HU Annual Vignette (car)",
+      "price": 59.38,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual"
+      ]
+    },
+    {
+      "id": 29,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "Y1",
+      "name": "AT Annual Vignette (motorcycle)",
+      "price": 90.42,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 30,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "M1",
+      "name": "SK 1-month Vignette (motorcycle)",
+      "price": 62.63,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 31,
+      "country": "HU",
+      "vehicle": "motorcycle",
+      "duration": "M1",
+      "name": "HU 1-month Vignette (motorcycle)",
+      "price": 145.71,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 32,
+      "country": "CZ",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "CZ 10-day Vignette (car)",
+      "price": 116.48,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 33,
+      "country": "CZ",
+      "vehicle": "motorcycle",
+      "duration": "D10",
+      "name": "CZ 10-day Vignette (motorcycle)",
+      "price": 95.94,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 34,
+      "country": "SK",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "SK 1-month Vignette (car)",
+      "price": 49.54,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 35,
+      "country": "HU",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "HU 10-day Vignette (car)",
+      "price": 27.93,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 36,
+      "country": "CZ",
+      "vehicle": "motorcycle",
+      "duration": "M1",
+      "name": "CZ 1-month Vignette (motorcycle)",
+      "price": 141.66,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 37,
+      "country": "HU",
+      "vehicle": "car",
+      "duration": "D1",
+      "name": "HU 1-day Vignette (car)",
+      "price": 47.73,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 38,
+      "country": "CZ",
+      "vehicle": "car",
+      "duration": "D1",
+      "name": "CZ 1-day Vignette (car)",
+      "price": 57.6,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 39,
+      "country": "HU",
+      "vehicle": "motorcycle",
+      "duration": "M2",
+      "name": "HU 2-month Vignette (motorcycle)",
+      "price": 71.99,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 40,
+      "country": "SI",
+      "vehicle": "motorcycle",
+      "duration": "M2",
+      "name": "SI 2-month Vignette (motorcycle)",
+      "price": 136.64,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 41,
+      "country": "SK",
+      "vehicle": "car",
+      "duration": "D1",
+      "name": "SK 1-day Vignette (car)",
+      "price": 142.87,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 42,
+      "country": "SK",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "SK 10-day Vignette (car)",
+      "price": 76.23,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 43,
+      "country": "CZ",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "CZ 1-month Vignette (car)",
+      "price": 97.07,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 44,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "M1",
+      "name": "AT 1-month Vignette (motorcycle)",
+      "price": 26.76,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 45,
+      "country": "SI",
+      "vehicle": "car",
+      "duration": "M2",
+      "name": "SI 2-month Vignette (car)",
+      "price": 69.98,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 46,
+      "country": "CZ",
+      "vehicle": "motorcycle",
+      "duration": "D1",
+      "name": "CZ 1-day Vignette (motorcycle)",
+      "price": 34.8,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 47,
+      "country": "HU",
+      "vehicle": "motorcycle",
+      "duration": "M2",
+      "name": "HU 2-month Vignette (motorcycle)",
+      "price": 117.59,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 48,
+      "country": "AT",
+      "vehicle": "car",
+      "duration": "D10",
+      "name": "AT 10-day Vignette (car)",
+      "price": 55.92,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 49,
+      "country": "HU",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "HU 1-month Vignette (car)",
+      "price": 84.08,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 50,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "M1",
+      "name": "SK 1-month Vignette (motorcycle)",
+      "price": 134.9,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 51,
+      "country": "SI",
+      "vehicle": "motorcycle",
+      "duration": "M1",
+      "name": "SI 1-month Vignette (motorcycle)",
+      "price": 17.17,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 52,
+      "country": "AT",
+      "vehicle": "motorcycle",
+      "duration": "Y1",
+      "name": "AT Annual Vignette (motorcycle)",
+      "price": 110.65,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "annual",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 53,
+      "country": "SK",
+      "vehicle": "motorcycle",
+      "duration": "M2",
+      "name": "SK 2-month Vignette (motorcycle)",
+      "price": 12.26,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker",
+        "motorcycle"
+      ]
+    },
+    {
+      "id": 54,
+      "country": "SK",
+      "vehicle": "car",
+      "duration": "M1",
+      "name": "SK 1-month Vignette (car)",
+      "price": 126.81,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    },
+    {
+      "id": 55,
+      "country": "AT",
+      "vehicle": "car",
+      "duration": "M2",
+      "name": "AT 2-month Vignette (car)",
+      "price": 35.02,
+      "currency": "EUR",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-12-31",
+      "image": "https://picsum.photos/160/220?random",
+      "tags": [
+        "highway",
+        "sticker"
+      ]
+    }
+  ]
+}
