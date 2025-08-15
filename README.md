@@ -1,6 +1,6 @@
 app indítás: npm run dev
 
-json szerver indítés: json-server --watch db.json --port 4000
+json szerver indítás: json-server --watch db.json --port 4000
 
 Külön komponensbe kerültek: fetch hívás, szűrők, visible animáció és a mobil swipe lapozás 
 
